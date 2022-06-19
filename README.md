@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
 <h3 align="center">I Make Websites!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-pratham&label=Profile%20views&color=0e75b6&style=flat" alt="iam-pratham" /> </p>
+
 - 📫 How to reach me **prathammpatil29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
